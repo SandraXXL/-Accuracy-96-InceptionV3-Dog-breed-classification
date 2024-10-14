@@ -2,10 +2,13 @@
 ## The accuracy is 96%.
 
 <p align="center">
-  ### Accuracy: 0.9614  
-  ### Precision: 0.9669  
-  ### Recall: 0.9614  
-  ### F1-score: 0.9589
+  ** Accuracy: 0.9614 **
+  
+  ** Precision: 0.9669 **
+  
+  ** Recall: 0.9614 **
+  
+  ** F1-score: 0.9589 **
 </p>
 
 
