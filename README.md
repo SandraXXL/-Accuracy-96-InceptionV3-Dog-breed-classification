@@ -1,13 +1,14 @@
 # Dog Breed Classification using InceptionV3
-## The test accuracy is 96%, i've tested on a random image of a cocker dog which i found on pinterest, the top 1 result is indeed cocker with 0.99 confidence score.
+## The test accuracy is 96%.
+i've tested on a random image of a cocker dog which i found on pinterest, the top 1 result is indeed cocker with 0.99 confidence score.
 
-Accuracy: 0.9614
+### Accuracy: 0.9614
 
-Precision: 0.9669
+### Precision: 0.9669
 
-Recall: 0.9614
+### Recall: 0.9614
 
-F1-score: 0.9589
+### F1-score: 0.9589
 
 ## Test result:
 
