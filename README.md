@@ -1,5 +1,6 @@
 # Dog Breed Classification using InceptionV3
-<p><strong><em><span style="color:red;">The accuracy is 96%.</span></em></strong></p>
+
+***The accuracy is 96%.***
 
 <p align="center">
   <strong>Accuracy: 0.9614</strong><br>
