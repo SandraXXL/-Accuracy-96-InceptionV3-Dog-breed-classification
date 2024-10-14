@@ -1,6 +1,9 @@
 # Dog Breed Classification using InceptionV3
-## The test accuracy is 96%.
-i've tested on a random image of a cocker dog which i found on pinterest, the top 1 result is indeed cocker with 0.99 confidence score.
+## The accuracy is 96%.
+
+Hey there! 👋 This project is still in the works, so right now, you'll only find the model training part here. The plan is to eventually turn this into a full iOS app (most likely) or maybe a web platform.
+
+Stay tuned—things are still evolving!
 
 ### Accuracy: 0.9614
 
@@ -11,6 +14,8 @@ i've tested on a random image of a cocker dog which i found on pinterest, the to
 ### F1-score: 0.9589
 
 ## Test result:
+
+I've tested on a random image of a cocker dog which I found on pinterest, the top 1 result is indeed cocker with 0.99 confidence score.
 
 <img width="481" alt="uploaded" src="https://github.com/user-attachments/assets/09a9bc61-b474-458b-ae17-5101d3c90d65">
 
