@@ -1,5 +1,6 @@
 # Dog Breed Classification using InceptionV3
 ## The accuracy is 96%.
+<p align="center">
 ### Accuracy: 0.9614
 
 ### Precision: 0.9669
@@ -7,6 +8,7 @@
 ### Recall: 0.9614
 
 ### F1-score: 0.9589
+</p>
 
 Hey there! 👋 This project is still in the works, so right now, you'll only find the model training part here. The plan is to eventually turn this into a full iOS app (most likely) or maybe a web platform.
 
