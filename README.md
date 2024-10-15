@@ -8,7 +8,7 @@
 </p>
 
 
-Hey there! 👋 This project is still in the works, so right now, you'll only find the model training part here. The plan is to eventually turn this into a full iOS app (most likely) or maybe a web platform.
+Hey there! 👋 This project is still in the works, so right now, you'll only find the model training part here. The plan is to eventually turn this into a full iOS app or maybe a web platform.
 
 Stay tuned—things are still evolving!
 
