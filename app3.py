@@ -3,11 +3,11 @@ from flask import send_from_directory
 import numpy as np
 import os
 from PIL import Image
-import tensorflow as tf  # Import TensorFlow for TensorFlow Lite support
+import tensorflow as tf  
 
 app = Flask(__name__)
 
-# Load the TensorFlow Lite model
+# Load the model
 MODEL_PATH = 'model_quantized.tflite'
 interpreter = tf.lite.Interpreter(model_path=MODEL_PATH)
 interpreter.allocate_tensors()
@@ -21,7 +21,7 @@ UPLOAD_FOLDER = 'uploads'
 if not os.path.exists(UPLOAD_FOLDER):
     os.makedirs(UPLOAD_FOLDER)
 
-# Dog breeds mapping (replace with actual breeds from your model training)
+# Dog breeds mapping 
 dog_breeds = ['Afghan', 'African Wild Dog', 'Airedale', 'American Hairless', 'American Spaniel',
               'Basenji', 'Basset', 'Beagle', 'Bearded Collie', 'Bermaise', 'Bichon Frise', 
               'Blenheim', 'Bloodhound', 'Bluetick', 'Border Collie', 'Borzoi', 'Boston Terrier', 
@@ -88,7 +88,5 @@ def predict():
 
     return None
 
-
 if __name__ == '__main__':
-    port = int(os.environ.get("PORT", 4000))
-    app.run(host="0.0.0.0", port=port)
+    app.run(debug=True)
