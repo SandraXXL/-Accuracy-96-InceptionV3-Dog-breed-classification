@@ -8,7 +8,7 @@
 </p>
 
 
-Hey there! 👋 This project is still in the works, so right now, you'll only find the model training part here. The plan is to eventually turn this into a full iOS app or maybe a web platform.
+Hey there! 👋 This project is still in the works. Currently, you'll find only the model training and basic web pages for image uploading and result display; I am still looking for a way to host the web app (I tried PythonAnywhere, but it has compatibility issues with my model).
 
 Stay tuned—things are still evolving!
 
