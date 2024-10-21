@@ -8,7 +8,7 @@
 </p>
 
 
-Hey there! 👋 This project is still in the works. Currently, you'll find only the model training and basic web pages for image uploading and result display; I am still looking for a way to host the web app (I tried PythonAnywhere, but it has compatibility issues with my model).
+Hey there! 👋 This project is still in the works. Currently, you'll find only the model training and basic web pages for image uploading and result display; I am still looking for a way to host the web app (I tried PythonAnywhere, but it has compatibility issues with my model. I also tried Ngrok, which works, but the link is temporary).
 
 Stay tuned—things are still evolving!
 
