@@ -20,7 +20,7 @@ I've tested on a random image of a cocker dog which I found on pinterest, the to
 
 <img width="1043" alt="result" src="https://github.com/user-attachments/assets/2317cae5-ac42-49ac-837a-20e62bd64a17">
 
-## Steps of running python web app:
+## Steps of running python web app (in local environment):
 
 1. go to your terminal/cmd and locate in the directory that contains 'app3.py';
 
