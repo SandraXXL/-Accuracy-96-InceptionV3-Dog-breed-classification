@@ -12,13 +12,22 @@ Hey there! 👋 This project is still in the works. Currently, you'll find only 
 
 Stay tuned—things are still evolving!
 
-## Test result:
+## Test image:
 
 I've tested on a random image of a cocker dog which I found on pinterest, the top 1 result is indeed cocker with 0.99 confidence score.
 
 <img width="481" alt="uploaded" src="https://github.com/user-attachments/assets/09a9bc61-b474-458b-ae17-5101d3c90d65">
 
 <img width="1043" alt="result" src="https://github.com/user-attachments/assets/2317cae5-ac42-49ac-837a-20e62bd64a17">
+
+## Steps of running python web app:
+
+1. go to your terminal/cmd and locate in the directory that contains 'app3.py';
+
+2. run command 'python app3.py' or 'python3 app3.py' to start the web app;
+
+3. use the generated link to access the web pages
+
 
 ## Reference:
 
