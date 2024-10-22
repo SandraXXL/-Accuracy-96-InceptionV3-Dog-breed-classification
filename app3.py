@@ -33,7 +33,7 @@ dog_breeds = ['Afghan', 'African Wild Dog', 'Airedale', 'American Hairless', 'Am
               'Labradoodle', 'Labrador', 'Lhasa', 'Malinois', 'Maltese', 'Mex Hairless', 
               'Newfoundland', 'Pekinese', 'Pit Bull', 'Pomeranian', 'Poodle', 'Pug', 'Rhodesian', 
               'Rottweiler', 'Saint Bernard', 'Schnauzer', 'Scotch Terrier', 'Shar-Pei', 
-              'Shiba Inu', 'Shih-Tzu', 'Siberian Husky', 'Vizsla', 'Yorkie']  # Add actual dog breeds
+              'Shiba Inu', 'Shih-Tzu', 'Siberian Husky', 'Vizsla', 'Yorkie'] 
 
 @app.route('/')
 def index():
@@ -65,7 +65,7 @@ def predict():
         # Set the tensor as input
         interpreter.set_tensor(input_details[0]['index'], img)
 
-        # Run the interpreter (perform inference)
+        # Run the interpreter
         interpreter.invoke()
 
         # Get the prediction result
