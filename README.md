@@ -26,7 +26,7 @@ I've tested on a random image of a cocker dog which I found on pinterest, the to
 
 2. run command 'python app3.py' or 'python3 app3.py' to start the web app;
 
-3. use the generated link to access the web pages
+3. use the local URL to access the web pages
 
 
 ## Reference:
