@@ -24,6 +24,9 @@ I've tested on a random image of a cocker dog which I found on pinterest, the to
 <img src="https://github.com/user-attachments/assets/712dc70e-b9a2-4dc0-8372-1f9d4687e3d2" width="400" />
 <img src="https://github.com/user-attachments/assets/4c6ab2ae-4812-4de2-9088-49791e092819" width="400" />
 
+## Note:
+The bulldog class has the lowest accuracy because the training set contains only English bulldogs, while the testing set includes both English and French bulldogs. Later I'll try to enhance the dataset.
+
 ## Steps of running python web app (in local environment):
 
 1. go to your terminal/cmd and locate in the directory that contains 'app3.py';
